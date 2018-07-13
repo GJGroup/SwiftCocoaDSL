@@ -14,6 +14,7 @@
 		F3896FF620283DFB00B51D84 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F3896FF420283DFB00B51D84 /* LaunchScreen.storyboard */; };
 		F389700120283DFC00B51D84 /* demoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F389700020283DFC00B51D84 /* demoTests.swift */; };
 		F389700C20283DFC00B51D84 /* demoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F389700B20283DFC00B51D84 /* demoUITests.swift */; };
+		F3CC04A320F8928A00C7445A /* SwiftCocoaDSL.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3CC04A220F8928A00C7445A /* SwiftCocoaDSL.swift */; };
 		F3F9D601202D7D4000C7088D /* UIImageViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F9D5EC202D7D3D00C7088D /* UIImageViewExtension.swift */; };
 		F3F9D602202D7D4000C7088D /* UITableViewHeaderFooterViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F9D5ED202D7D3E00C7088D /* UITableViewHeaderFooterViewExtension.swift */; };
 		F3F9D603202D7D4000C7088D /* UIAlertViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F9D5EE202D7D3E00C7088D /* UIAlertViewExtension.swift */; };
@@ -63,6 +64,7 @@
 		F389700720283DFC00B51D84 /* demoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = demoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F389700B20283DFC00B51D84 /* demoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = demoUITests.swift; sourceTree = "<group>"; };
 		F389700D20283DFC00B51D84 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F3CC04A220F8928A00C7445A /* SwiftCocoaDSL.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftCocoaDSL.swift; sourceTree = "<group>"; };
 		F3F9D5EC202D7D3D00C7088D /* UIImageViewExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIImageViewExtension.swift; sourceTree = "<group>"; };
 		F3F9D5ED202D7D3E00C7088D /* UITableViewHeaderFooterViewExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UITableViewHeaderFooterViewExtension.swift; sourceTree = "<group>"; };
 		F3F9D5EE202D7D3E00C7088D /* UIAlertViewExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIAlertViewExtension.swift; sourceTree = "<group>"; };
@@ -177,6 +179,7 @@
 				F3F9D5FA202D7D3F00C7088D /* UIViewExtension.swift */,
 				F3F9D5EF202D7D3E00C7088D /* UIVisualEffectViewExtension.swift */,
 				F3F9D5F0202D7D3E00C7088D /* UIWebViewExtension.swift */,
+				F3CC04A220F8928A00C7445A /* SwiftCocoaDSL.swift */,
 			);
 			name = SwiftCocoaDSL;
 			path = ../SwiftCocoaDSL;
@@ -320,6 +323,7 @@
 				F3F9D60E202D7D4000C7088D /* UIPopoverBackgroundViewExtension.swift in Sources */,
 				F3F9D608202D7D4000C7088D /* UIStackViewExtension.swift in Sources */,
 				F3F9D613202D7D4000C7088D /* UILabelExtension.swift in Sources */,
+				F3CC04A320F8928A00C7445A /* SwiftCocoaDSL.swift in Sources */,
 				F3F9D611202D7D4000C7088D /* UIActivityIndicatorViewExtension.swift in Sources */,
 				F3F9D617202D80B200C7088D /* UIControlExtension.swift in Sources */,
 				F3F9D614202D7D4000C7088D /* UITextViewExtension.swift in Sources */,
